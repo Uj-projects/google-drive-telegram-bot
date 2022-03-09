@@ -1,7 +1,7 @@
 {
   "name": "GDrive-Uploader-Bot",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
-  "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
+  "repository": "https://github.com/Uj-projects/google-drive-telegram-bot",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
@@ -10,21 +10,24 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "Get it from @BotFather",
+      "value": "5243374319:AAHlvdZ7M1S6qCDKuqDR9FzoytsE8KnHLko"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "Your API_ID, Get it from https://my.telegram.org/apps",
+      "value": "10884991"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "Your API_HASH, Get it from https://my.telegram.org/apps",
+      "value": "6efcf8cafa7123f6cb359fc346f87e65"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
-      "value": "999197022 939425014"
+      "value": "5063912065 1157375333"
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://viperadnan-git.github.io"
+      "value": "https://t.me/+GYJkZvc5eqUxMWY1"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
@@ -32,11 +35,11 @@
     },
     "G_DRIVE_CLIENT_ID": {
       "description": "Google Drive Client ID from Google Cloud Platform",
-      "value": "202264815644.apps.googleusercontent.com"
+      "value": "266245300239-toibph2q7emb6o69ksd3he49p9h7bteo.apps.googleusercontent.com"
     },
     "G_DRIVE_CLIENT_SECRET": {
       "description": "Google Drive Client Secret from Google Cloud Platform",
-      "value": "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
+      "value": "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"
     }
   },
    "addons": [{
